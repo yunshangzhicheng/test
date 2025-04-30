@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../orabbit aws yaml"
+		},
+		{
+			"path": "../tf"
+		},
+		{
+			"path": "../tf02"
+		},
+		{
+			"path": "../shell"
+		},
+		{
+			"path": "."
+		},
+		{
+			"name": "test",
+			"path": "../Git/test"
+		}
+	]
+}
